@@ -1,1 +1,1 @@
-This is the 0x01-git directory where files are saved
+This is my first ALX-SE git and github project files
