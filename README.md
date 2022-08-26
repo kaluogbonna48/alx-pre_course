@@ -1,1 +1,1 @@
-My first readme
+This is my first ALX-SE git and github project files
